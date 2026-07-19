@@ -42,8 +42,7 @@ I am actively open to internships, collaborations, and opportunities where I can
 | Project | Description | Tech Stack |
 |---------|-------------|------|
 | [**Cloud-Native Task API**](https://github.com/OMIZOOMI/cloud-native-task-api) | Scalable enterprise task-tracking backend with OOP design and JWT security | Python, FastAPI, PostgreSQL, AWS |
-| **Hardware State AI Detector** | End-to-end computer vision pipeline for real-time chassis indicator tracking | Python, YOLOv8, TensorFlow Lite |
-| **Collaboration Platform** | Real-time web interface for tracking technical skill progression milestones | React.js, Node.js, HTML, CSS |
+| [**Hardware State AI Detector**](https://github.com/OMIZOOMI/hardware-state-edge-ai-detector) | End-to-end computer vision pipeline for real-time chassis indicator tracking | Python, YOLOv8, TensorFlow Lite |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,50:E8397D,100:FF6B35&height=3&width=1000" width="100%"/>
 
