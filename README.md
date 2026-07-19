@@ -27,11 +27,11 @@
 
 ## 🚀 About Me
 
-I am a final year Computer Science Engineering student at VIT Bhopal, passionate about building scalable backend architectures and intelligent edge-computing systems. With a strong foundation in Object-Oriented Design (OOD) and relational databases, I enjoy tackling complex infrastructure problems and writing optimized, production-ready code.
+I am a final year Computer Science Engineering student at VIT Bhopal, passionate about building scalable backend architectures and intelligent edge computing systems. With a strong foundation in Object-Oriented Design (OOD) and relational databases, I enjoy tackling complex infrastructure problems and writing optimized, production ready code.
 
-My primary interests lie in Cloud-Native Development, API Engineering, and Computer Vision, where I aim to create high-performance, real-world solutions. I have hands-on experience working with Python, FastAPI, React, and PostgreSQL, and I actively explore AWS cloud deployments and TensorFlow optimization.
+My primary interests lie in Cloud Native Development, API Engineering, and Computer Vision, where I aim to create high performance, real world solutions. I have hands on experience working with Python, FastAPI, React, and PostgreSQL, and I actively explore AWS cloud deployments and TensorFlow optimization.
 
-I believe in continuous learning and hands-on project building—whether it's designing secure middleware or tracking edge inference latency.
+I believe in continuous learning and hands-on project building whether it's designing secure middleware or tracking edge inference latency.
 
 I am actively open to internships, collaborations, and opportunities where I can contribute to mission-critical systems and further hone my skills. Let's connect and build something meaningful.
 
